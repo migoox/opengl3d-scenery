@@ -11,7 +11,7 @@
 
 | Phong Shading                                 | Gouraud Shading                                 | Const Shading                                 |
 | --------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| <img src="media/phong_shading.png" width=350> | <img src="media/gouraud_shading.png" width=350> | <img src="media/const_shading.png" width=350> |
+| <img src="media/phong_shading.png" width=450> | <img src="media/gouraud_shading.png" width=450> | <img src="media/const_shading.png" width=450> |
 
 ## Lighting
 
